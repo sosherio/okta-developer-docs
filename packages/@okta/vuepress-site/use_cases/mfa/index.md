@@ -4,6 +4,9 @@ excerpt: >-
   Using Okta's Multi-Factor Authentication API to add MFA to an existing
   application.
 redirect_from: /docs/guides/add_mfa.html
+meta:
+  - name: description
+    content: Add multi-factor authentication to your app
 ---
 
 # Introduction
